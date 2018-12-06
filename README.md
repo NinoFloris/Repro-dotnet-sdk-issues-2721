@@ -1,0 +1,1 @@
+Run `./warnings.sh` to get the conflict warnings, run `./works.sh` to see that having an empty project (console) reference lib causes conflicts, but building that lib project directly doesn't produce any warnings. 

@@ -1,4 +1,4 @@
 #! /bin/bash
 
 cd lib
-dotnet build
+dotnet build $@
