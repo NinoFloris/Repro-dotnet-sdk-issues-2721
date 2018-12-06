@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
     <ProjectReference Include="../lib/lib.fsproj" />
     <Compile Include="Program.fs" />
   </ItemGroup>
